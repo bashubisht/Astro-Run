@@ -13,4 +13,10 @@ Astro-Run is a dynamic runner game built with Unity and C#, featuring multiple l
 
 To play Astro-Run, use the arrow keys to move the character and spacebar to jump. Avoid obstacles and enemies to reach the end of each level.
 
+![App Screenshot](AstroImg/img1.png)
 
+![App Screenshot](AstroImg/img2.png)
+
+![App Screenshot](AstroImg/img3.png)
+
+![App Screenshot](AstroImg/img4.png)
